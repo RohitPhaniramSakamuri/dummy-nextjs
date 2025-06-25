@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useState } from 'react'
-import { getUser } from '../action/user';
+import { getUser } from '../../action/user';
 
 const TestPage = () => {
 
